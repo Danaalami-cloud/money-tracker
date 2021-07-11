@@ -56,7 +56,8 @@ The user will be able to add the name of the trasnaction, its amount, and if it 
 <img width="981" alt="Screenshot 2021-07-11 at 12 22 48" src="https://user-images.githubusercontent.com/76731133/125189842-d5588800-e242-11eb-8fa4-9599d832c3a2.png">
 
 
-
+## Deployed app
+https://radiant-waters-30365.herokuapp.com/
 
 ## Credits
 
