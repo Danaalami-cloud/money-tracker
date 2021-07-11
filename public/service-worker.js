@@ -1,3 +1,4 @@
+
 const URLS_TO_CACHE = [
     '/',
     "/db.js",
@@ -20,7 +21,7 @@ const URLS_TO_CACHE = [
     );
   });
   
-  
+
   
   self.addEventListener('fetch', (event) => {
     if (event.request.url.includes("/api/")) {
